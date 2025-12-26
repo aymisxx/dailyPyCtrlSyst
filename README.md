@@ -1,4 +1,4 @@
-dailyPyCtrlSyst 🐍⚙️
+# dailyPyCtrlSyst 🕹️⚙️
 
 ---
 
