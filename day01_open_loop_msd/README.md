@@ -1,5 +1,7 @@
 # Day 01: Open-Loop Mass-Spring-Damper System
 
+---
+
 Open-loop simulation of a classical mass-spring-damper system under a step force input.
 
 - System: m·ÿ + c·ẏ + k·y = u(t)
