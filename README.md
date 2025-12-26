@@ -10,6 +10,8 @@ implementation rather than long gaps or one-off revisions.
 - The primary purpose of this repo is self-accountability.
 - It exists to maintain a daily GitHub streak and, more importantly, to ensure that I show up consistently and engage with control systems every day, even if the progress on a given day is minimal.
 
+**Note**: Make sure all the mentioned dependencies in '**requirements.txt**' is installed.
+
 ### Author: **Ayushman Mishra**
 
 > https://linkedin.com/in/aymisxx/

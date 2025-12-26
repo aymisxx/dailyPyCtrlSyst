@@ -1,4 +1,4 @@
-# Day 01: Open-loop Mass-Spring-Damper
+# Day 01: Open-Loop Mass-Spring-Damper System
 
 Open-loop simulation of a classical mass-spring-damper system under a step force input.
 
