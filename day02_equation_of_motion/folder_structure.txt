@@ -1,6 +1,0 @@
-dailyPyCtrlSyst/
-├── day01_open_loop_msd/
-├── day02_equation_of_motion/
-├── day03_state_space_msd/
-├── day04_step_response/
-├── day05_stability_eigenvalues/
